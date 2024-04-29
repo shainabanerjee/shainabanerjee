@@ -1,13 +1,13 @@
 <h1 align="center">⚡️ Hi, I'm Shaina Banerjee</h1>
 <h3 align="center">A backend software developer and technology enthusiast</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@shainabanerjee](https://medium.com/@shainabanerjee)
-
 - 💬 Let's discuss **App ideas and Software Solutions**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/shaina-banerjee/](https://www.linkedin.com/in/shaina-banerjee/)
 
 - 📫 How to reach me: **Message me on LinkedIn!**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/shaina-banerjee/](https://www.linkedin.com/in/shaina-banerjee/)
+- 📝 I regularly write articles on [https://medium.com/@shainabanerjee](https://medium.com/@shainabanerjee)
 
 
 <h3 align="left">Connect with me:</h3>
