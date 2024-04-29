@@ -1,0 +1,22 @@
+<h1 align="center">⚡️ Hi, I'm Shaina Banerjee</h1>
+<h3 align="center">A backend software developer and technology enthusiast</h3>
+
+- 📝 I regularly write articles on [https://medium.com/@shainabanerjee](https://medium.com/@shainabanerjee)
+
+- 💬 Let's discuss **App ideas and Software Solutions**
+
+- 📫 How to reach me: **Message me on LinkedIn!**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/shaina-banerjee/](https://www.linkedin.com/in/shaina-banerjee/)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/shaina-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaina-banerjee" height="30" width="40" /></a>
+<a href="https://instagram.com/theshainabanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theshainabanerjee" height="30" width="40" /></a>
+<a href="https://medium.com/@shainabanerjee" target="blank"><img align="center" src="https://ucbd382d867eda2285bc3724c2e9.previews.dropboxusercontent.com/p/thumb/ACRyFVi_L1bBmuAxEUuVCZBXFdI6pa9tKg3AMNu27hYws4-xdtnrv14aQpAVLoOt2PjiEbvlosfiT0ZYbcu7cmP9tnkaev9rLwKYYpBJITrxOrkA3KRflPTEDJ93AHQA2BCgXvSQz2sAQxrnYYpp7iemKte7_TXEvzR54M8BbsxYxzfDEwcwQsbczfbXENc9s3nYUXPHl5-O-6nlgMHEiS5CPGU53UIjJjjnEnpY9vHMPsHrS5Eyc9jMVxTD1oOurjKi0OoS8rxoGRs24n89HajUf8WL7rS_ndZA_JgJNfDCLoXQX-vbSMTFiypC5eiO284INE1SdCdTCubEJJcumqUf7cW8rjXeJjCPlYiKHvN8y6z8v5lCaQikAbiv8bwuqpmnvOZUB8_1hPRP5DZ00o5MbT8WuJP7yvZysmkOYJc5KytnYk__1WN7dQLl0sBr_loDiVvS437wTO4CwD7n3fnvJ3Jr2duAol5nTf8Zj9NOeOQYITOCrNpIaL9VRt7GvVAimrj3IQkcF3C_rR3rxdXwKJEqypAC7lkSBIdFsGP-vqz4JbFz-wGqXF0Af5uknYszI5FEeUZkdQrSkrlfAWdoa7AK3t7M28y2dVQwtsop4dFWAhde-0a4738L5zmh_BRpoJoy3OLl0TBU7Rr3X93Dtl1C0f_vGPiQ0UYmbrq96hapvWu6-LKtRjlx2gkDJms0hRrg-wS83VlSbeTlTxGrc_jkGEhpw9VJXmslcBvZI7AIJS5pBBsYoocUMD5qrt0TJi5Y2HweGHoSd-yTBTTJCLQtygE-rLSAMozDmCX7giGY58YKbLipBFo8qtG1HXT1gH2FdnG3fl-7vtOe27lGSa9FFbv0Yq2IowrL3TLsueauhy45cF_EIMsNiqxio98UauOwdRgFuc3BoSGggXHs7LNnfJTUnPtqmWswU0DlxCcatmdTwYv0JMOdVqW95-i6QTYQGsDgwdF00n-mgNUgn9ULNEz6_PbMqLe2fd2sR0s_QJv9HT7lXjziUCMiyI8wxEkaXPWpGL3VZLqGkkr0iRDfQ2myjQMUk7bqEVE-YRMWlocUouuiuGFCPmjOqsSNPxThPGDNORYmZR1gg_ghHaaIeBLR3pwhcNV56W-wZreOlpV93USowooEmHfV7_McXucj298_yLvzqNcfNMau8KUuVM0kW28-zC79oWqiH0QLNhMUVDLGyOgJ-MGcNT3cIGWv3yTj_L20qd_VhB4i/p.png" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shainabanerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shainabanerjee" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
