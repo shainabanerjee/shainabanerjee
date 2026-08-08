@@ -10,8 +10,7 @@
 
 ### About Me
 
-software engineer in progress 
-
+using code to make life easier and more entertaining
 
 ♡ &nbsp;I'm currently working on **a collaborative travel planner**  
 ♡ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
