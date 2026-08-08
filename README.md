@@ -14,8 +14,8 @@ software engineer in progress
 
 
 ♡ &nbsp;I'm currently working on **a collaborative travel planner**  
-ִ𖤐.&nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
-⋆˚𖤓˖° &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
+♡ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
+♡ &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
 
 
 ### Tech Stack
