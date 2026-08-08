@@ -14,9 +14,9 @@ software engineer in progress
 
 𖢥  ฅ(•˕ •マ⟆
 
-(˶ˆᗜˆ˵) &nbsp;I'm currently working on **a collaborative travel planner**  
-ᕙ(  •̀ ᗜ •́  )ᕗ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
-(๑>؂•̀๑) &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
+☁ &nbsp;I'm currently working on **a collaborative travel planner**  
+☁ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
+☁ &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
 
 
 ### Tech Stack
@@ -43,7 +43,7 @@ software engineer in progress
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
-
+•*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.••*´¨`*•.¸¸.•*´¨`*•.¸¸.•
 ### Connect With Me
 
 <p align="left">
