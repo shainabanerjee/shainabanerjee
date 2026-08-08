@@ -12,6 +12,8 @@
 
 using code to make life easier and more entertaining
 
+will be making more projects public soon :)
+
 ♡ &nbsp;I'm currently working on **a collaborative travel planner**  
 ♡ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
 ♡ &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
