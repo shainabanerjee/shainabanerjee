@@ -1,19 +1,60 @@
-<h1 align="center">⚡️ Hi, I'm Shaina Banerjee</h1>
-<h3 align="center">A backend software developer and technology enthusiast</h3>
-
-- Know about my experiences [https://www.linkedin.com/in/shaina-banerjee/](https://www.linkedin.com/in/shaina-banerjee/)
-
-- How to reach me: **Message me on LinkedIn!**
-
-- I regularly write articles on [https://medium.com/@shainabanerjee](https://medium.com/@shainabanerjee)
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaina-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaina-banerjee" height="30" width="40" /></a>
-<a href="https://medium.com/@shainabanerjee" target="blank"><img align="center" src="https://ucbd382d867eda2285bc3724c2e9.previews.dropboxusercontent.com/p/thumb/ACRyFVi_L1bBmuAxEUuVCZBXFdI6pa9tKg3AMNu27hYws4-xdtnrv14aQpAVLoOt2PjiEbvlosfiT0ZYbcu7cmP9tnkaev9rLwKYYpBJITrxOrkA3KRflPTEDJ93AHQA2BCgXvSQz2sAQxrnYYpp7iemKte7_TXEvzR54M8BbsxYxzfDEwcwQsbczfbXENc9s3nYUXPHl5-O-6nlgMHEiS5CPGU53UIjJjjnEnpY9vHMPsHrS5Eyc9jMVxTD1oOurjKi0OoS8rxoGRs24n89HajUf8WL7rS_ndZA_JgJNfDCLoXQX-vbSMTFiypC5eiO284INE1SdCdTCubEJJcumqUf7cW8rjXeJjCPlYiKHvN8y6z8v5lCaQikAbiv8bwuqpmnvOZUB8_1hPRP5DZ00o5MbT8WuJP7yvZysmkOYJc5KytnYk__1WN7dQLl0sBr_loDiVvS437wTO4CwD7n3fnvJ3Jr2duAol5nTf8Zj9NOeOQYITOCrNpIaL9VRt7GvVAimrj3IQkcF3C_rR3rxdXwKJEqypAC7lkSBIdFsGP-vqz4JbFz-wGqXF0Af5uknYszI5FEeUZkdQrSkrlfAWdoa7AK3t7M28y2dVQwtsop4dFWAhde-0a4738L5zmh_BRpoJoy3OLl0TBU7Rr3X93Dtl1C0f_vGPiQ0UYmbrq96hapvWu6-LKtRjlx2gkDJms0hRrg-wS83VlSbeTlTxGrc_jkGEhpw9VJXmslcBvZI7AIJS5pBBsYoocUMD5qrt0TJi5Y2HweGHoSd-yTBTTJCLQtygE-rLSAMozDmCX7giGY58YKbLipBFo8qtG1HXT1gH2FdnG3fl-7vtOe27lGSa9FFbv0Yq2IowrL3TLsueauhy45cF_EIMsNiqxio98UauOwdRgFuc3BoSGggXHs7LNnfJTUnPtqmWswU0DlxCcatmdTwYv0JMOdVqW95-i6QTYQGsDgwdF00n-mgNUgn9ULNEz6_PbMqLe2fd2sR0s_QJv9HT7lXjziUCMiyI8wxEkaXPWpGL3VZLqGkkr0iRDfQ2myjQMUk7bqEVE-YRMWlocUouuiuGFCPmjOqsSNPxThPGDNORYmZR1gg_ghHaaIeBLR3pwhcNV56W-wZreOlpV93USowooEmHfV7_McXucj298_yLvzqNcfNMau8KUuVM0kW28-zC79oWqiH0QLNhMUVDLGyOgJ-MGcNT3cIGWv3yTj_L20qd_VhB4i/p.png" height="30" width="40" /></a>
-
+<p align="center">
+  <a href="https://github.com/shainabanerjee">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=h!%20i'm%20shaina%20%3A)" alt="h! i&#39;m shaina :)" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=610&height=44&lines=caffeine-powered%20technology%20enthusiast" alt="Typing headlines" />
+</p>
+
+### About Me
+
+software engineer in progress 
+
+𖢥  ฅ(•˕ •マ⟆
+
+(˶ˆᗜˆ˵) &nbsp;I'm currently working on **a collaborative travel planner**  
+ᕙ(  •̀ ᗜ •́  )ᕗ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
+(๑>؂•̀๑) &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
+
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+### Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shaina-banerjee" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=shainabanerjee&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+---
+<p align="center"><i> From <a href="https://github.com/shainabanerjee">shainabanerjee</a></i></p>
