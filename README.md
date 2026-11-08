@@ -16,8 +16,6 @@ will be making more projects public soon :)
 
 ♡ &nbsp;I'm currently working on **an AI agent that can recognize tone of a given sentence**  
 ♡ &nbsp;I'm currently learning **about WebSockets and supporting concurrent web clients**  
-♡ &nbsp;Ask me about **my tendency to add visual aesthetics to any project and breathe life into it**  
-
 
 ### Tech Stack
 
